@@ -1,5 +1,5 @@
 
-# PLogger 1.0 - A simple keylogger made with Python
+# P-Logger 1.0 - A simple keylogger made with Python
 
 
 A simple keylogging software that stores keylogs in a file called key_log.txt in the same folder as the script.
