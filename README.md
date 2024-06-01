@@ -7,6 +7,13 @@ A simple keylogging software that stores keylogs in a file called key_log.txt in
 
 ## Usage/Examples
 
+Install pynput
+
+```
+pip3 install pynput
+```
+Usage:
+
 ```
 python3 plogger.py
 ```
